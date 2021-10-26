@@ -112,7 +112,7 @@ img {
 }
 
 button {
-  min-width: 110px;
+  min-width: 125px;
   height: 50px;
   cursor: pointer;
   border-radius: 10px;
@@ -185,7 +185,6 @@ button:hover:not(.outline) {
 p {
   margin: 10;
   line-height: 40px;
-  font-size: 22px;
   font-weight: 800;
 }
 
