@@ -93,7 +93,7 @@ nav {
 .image-container {
   border: 1px solid var(--secondary-color);
   border-radius: 10px;
-  padding: 10px 70px;
+  padding: 10px 20px;
   margin-right: 25px;
   width: auto;
   background: var(--background);
@@ -111,19 +111,14 @@ img {
   margin-bottom: 50px;
 }
 
-/* .buttons-links {
-  text-decoration: none;
-  border-bottom: none;
-} */
-
 button {
-  min-width: 160px;
-  height: 60px;
+  min-width: 110px;
+  height: 50px;
   cursor: pointer;
   border-radius: 10px;
   margin-right: 20px;
   border: 2px solid var(--primary-color);
-  font-size: 22px;
+  font-size: 18px;
   font-weight: 600;
   outline: none;
 }
@@ -179,7 +174,7 @@ button:hover:not(.outline) {
 }
 
 .text-box {
-  width: 50%;
+  width: 45%;
   text-align: justify;
   background: rgb(0 0 0 / 50%);
   color: var(--on-primary);
@@ -190,7 +185,7 @@ button:hover:not(.outline) {
 p {
   margin: 10;
   line-height: 40px;
-  font-size: 25px;
+  font-size: 22px;
   font-weight: 800;
 }
 
